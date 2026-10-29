@@ -1,0 +1,4 @@
+1040035251,Marcela,87654321,mboterob@unal.edu.co,1000
+1040046779,Santiago,87654321,sbarrera@unal.edu.co,0
+1040034855,Sebastian,12345678,svargas@unal.edu.co,0
+1040050579,Daniel,87654321,dvillegas@unal.edu.co,0
